@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#HTML {
+    width: 16%;
+    height: 16%;
+    display: inline;
+    float: left;
+    padding: 10px;
+}
+#CSS {
+    width: 13%;
+    height: 13%;
+    display: inline;
+    float: left;
+    padding: 20px;
+}
