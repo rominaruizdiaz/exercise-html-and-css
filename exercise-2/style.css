@@ -1,0 +1,104 @@
+* {
+    padding: 0px;
+    margin: 0px;
+  }
+  #black {
+    background-color: black;
+  }
+  #teal {
+    background-color: teal;
+  }
+  #blue {
+    background-color: blue;
+  }
+  #navy {
+    background-color: navy;
+  }
+  #lime {
+    background-color: lime;
+  }
+  #white {
+    background-color: white;
+  }
+  #purple {
+    background-color: purple;
+  }
+  #yellow {
+    background-color: yellow;
+  }
+  #olive {
+    background-color: olive;
+  }
+  #red {
+    background-color: red;
+  }
+  #marron {
+    background-color: marroon;
+  }
+  #gray {
+    background-color: gray;
+  }
+  #fuehsia {
+    background-color: fuchsia;
+  }
+  #green {
+    background-color: green;
+  }
+  #aqua {
+    background-color: aqua;
+  }
+  #silver {
+    background-color: silver;
+  }
+  #black_text {
+    color: black;
+  }
+  #teal_text {
+     color: teal;
+  }
+  #blue_text {
+     color: blue;
+  }
+  #navy_text {
+     color: navy;
+  }
+  #lime_text {
+     color: lime;
+  }
+  #white_text {
+     color: white;
+  }
+  #purple_text {
+     color: purple;
+  }
+  #yellow_text {
+     color: yellow;
+  }
+  #olive_text {
+     color: olive;
+  }
+  #red_text {
+     color: red;
+  }
+  #marron_text {
+     color:maroon;
+  }
+  #gray_text{
+     color: gray;
+  }
+  #fuehsia_text {
+     color: fuchsia;
+  }
+  #green_text {
+     color: green;
+  }
+  #aqua_text {
+     color: aqua;
+  }
+  #silver_text {
+     color: silver;
+  }
+  #footer_title {
+      background-color: transparent;
+      font-size: 80px;
+  }
