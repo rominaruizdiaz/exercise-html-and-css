@@ -16,3 +16,27 @@
     float: left;
     padding: 20px;
 }
+body {
+    margin: 0px 400px 0px 400px;
+}
+h1 {
+    font-size: 3em;
+    padding: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top: 30px;
+}
+h2 {
+    background-color: grey;
+    font-size: 2em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px;
+    margin: 0px;
+}
+div {
+    margin: 0px 5%;
+}
+p {
+    padding: 20px;
+    font-size: 1.2em;
+}
