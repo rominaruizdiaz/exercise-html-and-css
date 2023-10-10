@@ -36,6 +36,11 @@ h2 {
 div {
     margin: 0px 5%;
 }
+section {
+    padding-bottom: 20px;
+    display: inline;
+    float: left;
+}
 p {
     padding: 20px;
     font-size: 1.2em;
