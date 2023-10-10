@@ -102,6 +102,11 @@
     background-color: transparent;
     font-size: 80px;
 }
+body {
+    background-image: url(/exercise-2/asserts/wood-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 footer {
     margin: 0 20% 0 20%;
     font-size: 2em;
