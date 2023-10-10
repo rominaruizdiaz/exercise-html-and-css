@@ -16,6 +16,13 @@
     float: left;
     padding: 20px;
 }
+#JAVA {
+    width: 13%;
+    height: 13%;
+    display: inline;
+    float: left;
+    padding: 20px;
+}
 body {
     margin: 0px 400px 0px 400px;
 }
